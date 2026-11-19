@@ -18,70 +18,70 @@ window.PORTFOLIO_DATA = {
         "Graduation Project"
       ],
       "pages": [
-        "assets/doc-01-doctor-car-graduation-project-pres-01.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-02.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-03.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-04.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-05.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-06.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-07.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-08.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-09.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-10.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-11.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-12.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-13.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-14.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-15.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-16.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-17.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-18.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-19.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-20.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-21.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-22.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-23.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-24.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-25.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-26.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-27.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-28.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-29.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-30.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-31.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-32.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-33.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-34.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-35.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-36.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-37.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-38.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-39.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-40.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-41.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-42.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-43.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-44.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-45.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-46.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-47.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-48.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-49.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-50.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-51.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-52.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-53.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-54.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-55.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-56.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-57.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-58.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-59.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-60.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-61.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-62.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-63.jpg",
-        "assets/doc-01-doctor-car-graduation-project-pres-64.jpg"
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-01.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-02.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-03.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-04.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-05.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-06.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-07.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-08.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-09.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-10.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-11.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-12.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-13.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-14.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-15.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-16.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-17.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-18.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-19.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-20.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-21.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-22.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-23.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-24.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-25.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-26.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-27.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-28.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-29.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-30.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-31.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-32.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-33.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-34.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-35.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-36.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-37.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-38.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-39.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-40.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-41.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-42.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-43.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-44.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-45.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-46.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-47.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-48.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-49.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-50.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-51.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-52.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-53.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-54.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-55.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-56.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-57.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-58.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-59.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-60.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-61.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-62.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-63.jpg",
+        "assets/docs/doctor-car-presentation/doc-01-doctor-car-graduation-project-pres-64.jpg"
       ]
     },
     {
@@ -96,19 +96,19 @@ window.PORTFOLIO_DATA = {
         "VLAN"
       ],
       "pages": [
-        "assets/doc-02-network-lab-report-training-2-01.jpg",
-        "assets/doc-02-network-lab-report-training-2-02.jpg",
-        "assets/doc-02-network-lab-report-training-2-03.jpg",
-        "assets/doc-02-network-lab-report-training-2-04.jpg",
-        "assets/doc-02-network-lab-report-training-2-05.jpg",
-        "assets/doc-02-network-lab-report-training-2-06.jpg",
-        "assets/doc-02-network-lab-report-training-2-07.jpg",
-        "assets/doc-02-network-lab-report-training-2-08.jpg",
-        "assets/doc-02-network-lab-report-training-2-09.jpg",
-        "assets/doc-02-network-lab-report-training-2-10.jpg",
-        "assets/doc-02-network-lab-report-training-2-11.jpg",
-        "assets/doc-02-network-lab-report-training-2-12.jpg",
-        "assets/doc-02-network-lab-report-training-2-13.jpg"
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-01.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-02.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-03.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-04.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-05.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-06.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-07.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-08.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-09.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-10.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-11.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-12.jpg",
+        "assets/docs/network-lab-report/doc-02-network-lab-report-training-2-13.jpg"
       ]
     },
     {
@@ -122,13 +122,13 @@ window.PORTFOLIO_DATA = {
         "Encoder Design"
       ],
       "pages": [
-        "assets/doc-03-convolutional-codes-01.jpg",
-        "assets/doc-03-convolutional-codes-02.jpg",
-        "assets/doc-03-convolutional-codes-03.jpg",
-        "assets/doc-03-convolutional-codes-04.jpg",
-        "assets/doc-03-convolutional-codes-05.jpg",
-        "assets/doc-03-convolutional-codes-06.jpg",
-        "assets/doc-03-convolutional-codes-07.jpg"
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-01.jpg",
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-02.jpg",
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-03.jpg",
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-04.jpg",
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-05.jpg",
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-06.jpg",
+        "assets/docs/convolutional-codes/doc-03-convolutional-codes-07.jpg"
       ]
     },
     {
@@ -143,13 +143,13 @@ window.PORTFOLIO_DATA = {
         "Spam Detection"
       ],
       "pages": [
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-01.jpg",
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-02.jpg",
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-03.jpg",
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-04.jpg",
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-05.jpg",
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-06.jpg",
-        "assets/doc-04-bulwark-sms-spam-phishing-detectio-07.jpg"
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-01.jpg",
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-02.jpg",
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-03.jpg",
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-04.jpg",
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-05.jpg",
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-06.jpg",
+        "assets/docs/bulwark-spam-detection/doc-04-bulwark-sms-spam-phishing-detectio-07.jpg"
       ]
     },
     {
@@ -164,26 +164,52 @@ window.PORTFOLIO_DATA = {
         "Research"
       ],
       "pages": [
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-01.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-02.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-03.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-04.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-05.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-06.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-07.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-08.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-09.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-10.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-11.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-12.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-13.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-14.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-15.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-16.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-17.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-18.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-19.jpg",
-        "assets/doc-05-ai-bor-5g-ai-based-resource-alloca-20.jpg"
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-01.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-02.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-03.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-04.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-05.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-06.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-07.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-08.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-09.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-10.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-11.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-12.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-13.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-14.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-15.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-16.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-17.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-18.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-19.jpg",
+        "assets/docs/ai-bor-5g/doc-05-ai-bor-5g-ai-based-resource-alloca-20.jpg"
+      ]
+    },
+    {
+      "type": "PowerPoint",
+      "title": "Applications of AI in Communications and Technology",
+      "meta": "13 of 21 slides shown",
+      "blurb": "A presentation on how artificial intelligence is used in communications and technology. It weighs the advantages of AI (smarter decisions, efficiency) against its disadvantages (cost, lack of creativity, job concerns), asks whether AI could replace communications engineers, surveys AI tools for writing and research, image design and programming, and compares useful robots (chat bots, web data mining, surveillance robots) with malicious ones (download bots, fraudulent bots).",
+      "tags": [
+        "Artificial Intelligence",
+        "Communications",
+        "Presentation Design"
+      ],
+      "pages": [
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-01.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-02.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-03.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-04.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-05.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-06.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-07.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-08.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-09.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-10.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-11.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-12.jpg",
+        "assets/docs/ai-in-communications/doc-06-ai-in-communications-13.jpg"
       ]
     }
   ],
@@ -200,9 +226,9 @@ window.PORTFOLIO_DATA = {
         "Graduation Project"
       ],
       "pages": [
-        "assets/eng-01-doctor-car-graduation-project-post-01.jpg",
-        "assets/eng-01-doctor-car-graduation-project-post-02.jpg",
-        "assets/eng-01-doctor-car-graduation-project-post-03.jpg"
+        "assets/engineering/eng-01-doctor-car-graduation-project-post-01.jpg",
+        "assets/engineering/eng-01-doctor-car-graduation-project-post-02.jpg",
+        "assets/engineering/eng-01-doctor-car-graduation-project-post-03.jpg"
       ]
     },
     {
@@ -215,7 +241,7 @@ window.PORTFOLIO_DATA = {
         "Mobile App"
       ],
       "pages": [
-        "assets/eng-02-doctor-car-app-preview-01.png"
+        "assets/engineering/eng-02-doctor-car-app-preview-01.png"
       ],
       "contain": true
     }
@@ -233,9 +259,131 @@ window.PORTFOLIO_DATA = {
         "Wedding Invitation"
       ],
       "pages": [
-        "assets/video-01-animated-wedding-invitation-01.jpg"
+        "assets/video/video-01-animated-wedding-invitation-01.jpg"
       ],
-      "video": "assets/wedding.mp4"
+      "video": "assets/video/wedding.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "Campus Scenes — Short Video",
+      "meta": "0:36",
+      "blurb": "A short video cut together from campus moments: students working side by side on laptops, a young man waiting on a bench, and a close-up of a phone lock screen with a message about lights guiding you home.",
+      "tags": [
+        "Video Editing",
+        "Short Video",
+        "Storytelling"
+      ],
+      "pages": [
+        "assets/video/campus-scenes-short-video-poster.jpg"
+      ],
+      "video": "assets/video/campus-scenes-short-video.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "Event Teaser — Animated Arabic Titles",
+      "meta": "0:21",
+      "blurb": "A short teaser with animated Arabic titles over blurred footage, a phone-icon animation, and clips of speakers presenting in front of a projector screen at an event.",
+      "tags": [
+        "Video Editing",
+        "Motion Titles",
+        "Teaser"
+      ],
+      "pages": [
+        "assets/video/event-teaser-arabic-titles-poster.jpg"
+      ],
+      "video": "assets/video/event-teaser-arabic-titles.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "Event Highlights — Stage, Talks & Awards",
+      "meta": "1:00",
+      "blurb": "A highlights video from an event: a speaker on stage in front of a projected Arabic title slide, a guest appearing on screen, a certificate-awarding moment, and a presentation with animated robot graphics.",
+      "tags": [
+        "Video Editing",
+        "Event Coverage",
+        "Highlights"
+      ],
+      "pages": [
+        "assets/video/event-highlights-stage-awards-poster.jpg"
+      ],
+      "video": "assets/video/event-highlights-stage-awards.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "Animated Presenter — Arabic Captions (Vertical)",
+      "meta": "0:23 · vertical 9:16",
+      "blurb": "A vertical clip featuring a 3D cartoon-style presenter in a hijab and blazer speaking to the camera, with bold Arabic captions added for social media.",
+      "tags": [
+        "Vertical Video",
+        "Captions",
+        "Social Media",
+        "Animation"
+      ],
+      "pages": [
+        "assets/video/animated-presenter-vertical-poster.jpg"
+      ],
+      "video": "assets/video/animated-presenter-vertical.mp4",
+      "contain": true
+    },
+    {
+      "type": "Video",
+      "title": "Sci-Fi HUD Sequence",
+      "meta": "1:57",
+      "blurb": "A futuristic sci-fi sequence in cool blue tones: a holographic character wearing a glowing visor, a biometric hand-scan interface, a data-screen HUD, close-ups of an eye, and icy planetary landscapes.",
+      "tags": [
+        "Video Editing",
+        "Sci-Fi",
+        "Motion Graphics"
+      ],
+      "pages": [
+        "assets/video/sci-fi-hud-sequence-poster.jpg"
+      ],
+      "video": "assets/video/sci-fi-hud-sequence.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "Animated Name Title — HUD Style",
+      "meta": "0:12 · no audio",
+      "blurb": "A 12-second animated title card: the name “NOHA GAMAL” sits inside a glowing sci-fi HUD frame with a rotating ring, animated triangle markers and a small credit line, in cyan on a deep navy background.",
+      "tags": [
+        "Motion Graphics",
+        "Title Design",
+        "Animation"
+      ],
+      "pages": [
+        "assets/video/animated-name-title-hud-poster.jpg"
+      ],
+      "video": "assets/video/animated-name-title-hud.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "Team Q&A Game — Arabic Subtitled Video",
+      "meta": "6:35",
+      "blurb": "A relaxed sofa-conversation video in which two teammates answer fun personality questions — who feels like a leader, who is the calmest, who is the most interactive, who has the most distinctive laugh — picking their answers with small cut-out figures. Yellow Arabic subtitles run throughout.",
+      "tags": [
+        "Video Editing",
+        "Arabic Subtitles",
+        "Talk Format"
+      ],
+      "pages": [
+        "assets/video/team-qa-game-subtitled-poster.jpg"
+      ],
+      "video": "assets/video/team-qa-game-subtitled.mp4"
+    },
+    {
+      "type": "Video",
+      "title": "LAVISTA Residences — Construction Progress Promo",
+      "meta": "0:37",
+      "blurb": "A real-estate construction-progress promo: aerial shots of excavation and foundation work, crews on site, concrete floors rising beside a tower crane, and a closing rendered view of the finished LAVISTA Residences complex.",
+      "tags": [
+        "Video Editing",
+        "Real Estate",
+        "Promo"
+      ],
+      "pages": [
+        "assets/video/lavista-construction-promo-poster.jpg"
+      ],
+      "video": "assets/video/lavista-construction-promo.mp4"
     }
   ],
   "g": [
@@ -251,7 +399,7 @@ window.PORTFOLIO_DATA = {
         "#586271"
       ],
       "pages": [
-        "assets/design-01-car-maintenance-brand-banner-1.jpg"
+        "assets/designs/design-01-car-maintenance-brand-banner-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -270,7 +418,7 @@ window.PORTFOLIO_DATA = {
         "#7F8598"
       ],
       "pages": [
-        "assets/design-02-special-offers-maintenance-promo-1.jpg"
+        "assets/designs/design-02-special-offers-maintenance-promo-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -289,7 +437,7 @@ window.PORTFOLIO_DATA = {
         "#7D7F82"
       ],
       "pages": [
-        "assets/design-03-order-now-spare-parts-oils-promo-1.jpg"
+        "assets/designs/design-03-order-now-spare-parts-oils-promo-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -308,7 +456,7 @@ window.PORTFOLIO_DATA = {
         "#B6B5B3"
       ],
       "pages": [
-        "assets/design-04-safer-journeys-awareness-banner-1.jpg"
+        "assets/designs/design-04-safer-journeys-awareness-banner-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -327,7 +475,7 @@ window.PORTFOLIO_DATA = {
         "#CEB078"
       ],
       "pages": [
-        "assets/design-05-luma-gardens-real-estate-ad-1.jpg"
+        "assets/designs/design-05-luma-gardens-real-estate-ad-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -346,7 +494,7 @@ window.PORTFOLIO_DATA = {
         "#9D979C"
       ],
       "pages": [
-        "assets/design-06-nova-heights-real-estate-poster-1.jpg"
+        "assets/designs/design-06-nova-heights-real-estate-poster-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -365,9 +513,9 @@ window.PORTFOLIO_DATA = {
         "#21201D"
       ],
       "pages": [
-        "assets/design-07-velora-residences-story-set-3-page-1.jpg",
-        "assets/design-07-velora-residences-story-set-3-page-2.jpg",
-        "assets/design-07-velora-residences-story-set-3-page-3.jpg"
+        "assets/designs/design-07-velora-residences-story-set-3-page-1.jpg",
+        "assets/designs/design-07-velora-residences-story-set-3-page-2.jpg",
+        "assets/designs/design-07-velora-residences-story-set-3-page-3.jpg"
       ],
       "font": "",
       "size": "",
@@ -386,7 +534,7 @@ window.PORTFOLIO_DATA = {
         "#6B4410"
       ],
       "pages": [
-        "assets/design-08-horus-developments-invest-right-ad-1.jpg"
+        "assets/designs/design-08-horus-developments-invest-right-ad-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -405,7 +553,7 @@ window.PORTFOLIO_DATA = {
         "#F2D5A4"
       ],
       "pages": [
-        "assets/design-09-elora-luxury-perfume-ad-1.jpg"
+        "assets/designs/design-09-elora-luxury-perfume-ad-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -424,7 +572,7 @@ window.PORTFOLIO_DATA = {
         "#856FA9"
       ],
       "pages": [
-        "assets/design-10-nova-tech-headphones-product-ad-1.jpg"
+        "assets/designs/design-10-nova-tech-headphones-product-ad-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -443,7 +591,7 @@ window.PORTFOLIO_DATA = {
         "#FFFFFF"
       ],
       "pages": [
-        "assets/design-11-mellow-coffee-caramel-iced-latte-a-1.jpg"
+        "assets/designs/design-11-mellow-coffee-caramel-iced-latte-a-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -462,7 +610,7 @@ window.PORTFOLIO_DATA = {
         "#8A3C10"
       ],
       "pages": [
-        "assets/design-12-lumea-vitamin-c-serum-ad-1.jpg"
+        "assets/designs/design-12-lumea-vitamin-c-serum-ad-1.jpg"
       ],
       "font": "",
       "size": "",
@@ -481,12 +629,50 @@ window.PORTFOLIO_DATA = {
         "#FFFFFF"
       ],
       "pages": [
-        "assets/design-13-nova-watch-s2-smartwatch-ad-1.jpg"
+        "assets/designs/design-13-nova-watch-s2-smartwatch-ad-1.jpg"
       ],
       "font": "",
       "size": "",
       "note": "Concept design — a fictional brand made for portfolio practice, not a real company. Prices, phone numbers, emails and other details shown are placeholders.",
       "tall": false
+    },
+    {
+      "title": "ÉLORA — Arabic Winter Edition Perfume Ad",
+      "desc": "An Arabic-language ad for a fictional perfume, “Winter Edition”. Cream Arabic typography on a deep green patterned background carries the headline “Your trace stays after you” and a musk-and-vanilla 350 ml fragrance, while the bottle glows in a soft spotlight. The four notes (musk, tart, vanilla, oud) follow with orange arrow bullets, then a “10% off for a limited time” strip and the price, 1,850 EGP.",
+      "tag": "أثرك يبقى بعدك",
+      "cols": [
+        "#022F1A",
+        "#F38118",
+        "#F5D9A8",
+        "#6F4F34",
+        "#FAFFFE"
+      ],
+      "pages": [
+        "assets/designs/design-14-elora-arabic-winter-perfume-ad-1.jpg"
+      ],
+      "font": "",
+      "size": "",
+      "note": "Concept design — a fictional brand made for portfolio practice, not a real company. Prices, phone numbers, emails and other details shown are placeholders.",
+      "tall": true
+    },
+    {
+      "title": "LUMÉA — Vitamin C Serum Ad (Olive & Orange Version)",
+      "desc": "A second, bolder layout of the fictional LUMÉA serum ad. The Vitamin C Brightening Serum (30 ml) appears in a clear dropper bottle with a silver-and-gold collar, set against dark olive cut by a sweeping burnt-orange curve. The wordmark runs vertically in soft grey on the left, glossy orange bubbles overlap the bottle, and “Save 10% — 699 EGP” sits at the bottom.",
+      "tag": "",
+      "cols": [
+        "#2E3009",
+        "#BF510D",
+        "#E57320",
+        "#F3A22F",
+        "#A4A495"
+      ],
+      "pages": [
+        "assets/designs/design-15-lumea-olive-orange-serum-ad-1.jpg"
+      ],
+      "font": "",
+      "size": "",
+      "note": "Concept design — a fictional brand made for portfolio practice, not a real company. Prices, phone numbers, emails and other details shown are placeholders.",
+      "tall": true
     }
   ]
 };
